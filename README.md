@@ -10,6 +10,17 @@ A modern, multi-model AI content generation studio built with Laravel, Tailwind 
 - **Document Management**: Markdown viewer & editor, copy-to-clipboard, starring/favorites, and multi-parameter filtering.
 - **Responsive Interface**: Tailwind CSS navigation with live balance counters and mobile menus.
 
+## Screenshots
+
+| Tampilan | Preview |
+|---|---|
+| **Dashboard Studio AI**<br>Ringkasan saldo kredit, total dokumen dibuat, dan jalan pintas template cepat | ![Dashboard Studio AI](docs/screenshots/01-dashboard-overview.png) |
+| **Katalog Template Pembuatan Konten**<br>Pilihan template terstruktur untuk blog, email, media sosial, dan kode | ![Katalog Template AI](docs/screenshots/02-template-catalog.png) |
+| **Editor Prompt & Generator AI**<br>Formulir penyesuaian instruksi prompt, nada bahasa, dan pemilihan model LLM | ![Editor Prompt & Generator AI](docs/screenshots/03-generator-editor-flow.png) |
+| **Pustaka Dokumen Tersimpan**<br>Manajemen dokumen konten hasil generasi, jumlah token, dan penanda favorit | ![Pustaka Dokumen Tersimpan](docs/screenshots/04-documents-library.png) |
+
+---
+
 ## Tech Stack
 
 - **Backend**: Laravel 12.x (PHP 8.3+)
